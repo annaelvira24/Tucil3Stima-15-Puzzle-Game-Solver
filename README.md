@@ -31,3 +31,6 @@ Untuk menjalankan program di Linux:
 3. Masukkan data uji lengkap dengan path folder dari file test
 contoh : ../test/test1.txt
 ```
+## Contoh Hasil
+![alt text](https://raw.githubusercontent.com/annaelvira24/Tucil3Stima-15-Puzzle-Game-Solver/master/screen1.png)
+![alt text](https://raw.githubusercontent.com/annaelvira24/Tucil3Stima-15-Puzzle-Game-Solver/master/screen2.png)
